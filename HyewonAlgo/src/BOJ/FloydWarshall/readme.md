@@ -1,6 +1,6 @@
 ## BOJ 2458 키 순서 
 - FloydWarshall
-- Gold 4
+- 🥇 Gold 4
 
 ## 풀이
 

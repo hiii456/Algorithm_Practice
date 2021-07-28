@@ -72,9 +72,6 @@ public class BOJ_2458_G4_키_순서 {
 		
 		System.out.println(answer);
 		
-		
-		
-		
 
 	}
 
