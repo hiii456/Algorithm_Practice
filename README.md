@@ -14,6 +14,7 @@
 |----|----|----|----|----|----|
 |Day1|BOJ|2458|[키 순서](https://www.acmicpc.net/problem/2458)|FloydWarshall|Gold4|
 |Day2|BOJ|2512|[예산](https://www.acmicpc.net/problem/2512)|BinarySearch|Silver3|
+|Day2|BOJ|11404|[플로이드](https://www.acmicpc.net/problem/11404)|FloydWarshall|Gold4|
 
 
 
