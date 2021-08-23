@@ -9,7 +9,6 @@
 그다음 s<N일 동안 만약 현재 부분합이 M 이상이거나 e=N이면 s++, 그렇지 않다면 e++, 현재 부분합 M과 같다면 result++를 해주어 결과를 구하였다.
 
 
-
 ~~~java
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
