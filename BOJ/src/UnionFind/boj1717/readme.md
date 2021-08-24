@@ -1,5 +1,19 @@
-package UnionFind.boj1717;
+## BOJ 1717 집합의 표현 
+- Union-Find
+- 🥇 Gold4
+- 🔗[집합의 표현 문제 바로가기](https://www.acmicpc.net/problem/1717)
 
+
+
+## 풀이
+
+Union-Find의 개념을 익히기 좋은 문제였다.
+
+각각 a와 b를 같은 집합으로 합치는 Union 함수와 부모노드를 찾는 Find 함수를 통해 값을 구하였다.
+
+
+## 소스코드
+~~~java
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
@@ -58,3 +72,11 @@ public class G4_1717_집합의_표현 {
 	}
 
 }
+
+~~~
+
+## 결과 
+
+| 메모리  | 시간 |
+|----|----|
+| 55444kb| 1728ms|
