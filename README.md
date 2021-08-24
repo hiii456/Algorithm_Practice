@@ -16,7 +16,7 @@
 |Day2|BOJ|2512|[예산](https://www.acmicpc.net/problem/2512)|BinarySearch|Silver3|
 |Day2|BOJ|11404|[플로이드](https://www.acmicpc.net/problem/11404)|FloydWarshall|Gold4|
 |Day3|BOJ|2003|[수들의 합2](https://www.acmicpc.net/problem/2003)|Two Pointers|Silver3|
-|Day3|BOJ|11728|[배열 합치기](https://www.acmicpc.net/problem/11728)|Two Pointers|Silver5|
+|Day4|BOJ|1717|[집합의 표현](https://www.acmicpc.net/problem/1717)|Union-Find|Gold4|
 
 
 
