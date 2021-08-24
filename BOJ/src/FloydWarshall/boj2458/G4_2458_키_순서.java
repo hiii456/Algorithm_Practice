@@ -1,4 +1,4 @@
-package FloydWarshall;
+package FloydWarshall.boj2458;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

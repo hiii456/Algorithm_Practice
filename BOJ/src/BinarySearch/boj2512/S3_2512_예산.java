@@ -1,4 +1,4 @@
-package BinarySearch;
+package BinarySearch.boj2512;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
