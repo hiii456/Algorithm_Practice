@@ -1,5 +1,6 @@
 ## Programmers 호텔 방 배정 
 - Union-Find, HashMap
+- Level4
 - 2019 카카오 개발자 겨울 인턴십 문제 
 - 🔗[호텔 방 배정 문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/64063)
 
