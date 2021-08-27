@@ -18,6 +18,7 @@
 |Day3|BOJ|2003|[수들의 합2](https://www.acmicpc.net/problem/2003)|Two Pointers|Silver3|
 |Day4|BOJ|1717|[집합의 표현](https://www.acmicpc.net/problem/1717)|Union-Find|Gold4|
 |Day4|PROGRAMMERS|모름|[호텔방배정](https://programmers.co.kr/learn/courses/30/lessons/64063)|Union-Find|Level4|
+|Day5|PROGRAMMERS|모름|[보석쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|Two Pointers|Level3|
 
 
 
