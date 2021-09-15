@@ -21,6 +21,7 @@
 |Day5|PROGRAMMERS|X|[보석쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|Two Pointers|Level3|
 |Day6|PROGRAMMERS|X|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|Union-Find|Level3|
 |Day7|PROGRAMMERS|X|[섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)|Union-Find|Level3|
+|Day8|PROGRAMMERS|X|[2주차 상호평가](https://programmers.co.kr/learn/courses/30/lessons/83201)|구현|Level1|
 
 
 
