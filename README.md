@@ -21,6 +21,7 @@
 |Day5|PROGRAMMERS|X|[보석쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|Two Pointers|Level3|
 |Day6|PROGRAMMERS|X|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|Union-Find|Level3|
 |Day7|PROGRAMMERS|X|[섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)|Union-Find|Level3|
+|Day8|PROGRAMMERS|X|[2주차 상호평가](https://programmers.co.kr/learn/courses/30/lessons/83201)|구현|Level1|
 
 
 
@@ -30,6 +31,6 @@
 ## ✌ Commit Convention
 
 BOJ의 1051번 숫자 정사각형 (silver3) 문제를 풀었다면 해당 코드를 하나의 commit으로 분리합니다.
-이 때의 commit message는 다음과 같이 통일합니다
+이 때의 commit message는 다음과 같이 통일합니다.
 
   git commit -m "code : BOJ 1051 S3 숫자정사각형"
