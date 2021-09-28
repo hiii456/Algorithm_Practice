@@ -24,6 +24,7 @@
 |Day8|PROGRAMMERS|X|[2주차 상호평가](https://programmers.co.kr/learn/courses/30/lessons/83201)|구현|Level1|
 |Day9|PROGRAMMERS|X|[N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952)|백트래킹|Level3|
 |Day10|BOJ|14889|[스타트와 링크](https://www.acmicpc.net/problem/14889)|BackTracking|Silver3|
+|Day10|BOJ|1579|[암호만들기](https://www.acmicpc.net/problem/1579)|BackTracking|Gold5|
 
 
 
