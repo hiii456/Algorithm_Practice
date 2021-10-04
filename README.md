@@ -27,6 +27,8 @@
 |Day10|BOJ|14889|[스타트와 링크](https://www.acmicpc.net/problem/14889)|BackTracking|Silver3|
 |Day10|BOJ|1579|[암호만들기](https://www.acmicpc.net/problem/1579)|BackTracking|Gold5|
 |Day11|BOJ|3584|[최소공통조상](https://www.acmicpc.net/problem/3584)|LCA|Gold4|
+|Day12|BOJ|10814|[나이순 정렬](https://www.acmicpc.net/problem/10814)|Sort|Silver5|
+|Day12|BOJ|5568|[카드 놓기](https://www.acmicpc.net/problem/5568)|Permutation|Silver5|
 
 
 
