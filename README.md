@@ -31,6 +31,7 @@
 |Day12|BOJ|10814|[나이순 정렬](https://www.acmicpc.net/problem/10814)|Sort|Silver5|
 |Day12|BOJ|5568|[카드 놓기](https://www.acmicpc.net/problem/5568)|Permutation|Silver5|
 |Day13|BOJ|16918|[봄버맨](https://www.acmicpc.net/problem/16918)|Simulation|Silver1|
+|Day13|BOJ|9663|[N-Queen](https://www.acmicpc.net/problem/9663)|BackTracking|Gold5|
 
 
 
