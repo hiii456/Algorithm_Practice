@@ -32,6 +32,8 @@
 |Day12|BOJ|5568|[카드 놓기](https://www.acmicpc.net/problem/5568)|Permutation|Silver5|
 |Day13|BOJ|16918|[봄버맨](https://www.acmicpc.net/problem/16918)|Simulation|Silver1|
 |Day13|BOJ|9663|[N-Queen](https://www.acmicpc.net/problem/9663)|BackTracking|Gold5|
+|Day14|Programmers|X|[다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|String|Lv1|
+|Day14|BOJ|13305|[주유소](https://www.acmicpc.net/problem/13305)|Greedy|Silver4|
 
 
 
