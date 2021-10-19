@@ -10,6 +10,7 @@
 
 
 
+
 ## ☝ Solved Problems
 
 |Day|Type|Problem|title|Algorithm|lank|
