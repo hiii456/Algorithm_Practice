@@ -36,6 +36,8 @@
 |Day14|Programmers|X|[다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|String|Lv1|
 |Day14|BOJ|13305|[주유소](https://www.acmicpc.net/problem/13305)|Greedy|Silver4|
 |Day15|BOJ|1405|[미친로봇](https://www.acmicpc.net/problem/1405)|backTracking|Gold5|
+|Day16|BOJ|15649|[N과M](https://www.acmicpc.net/problem/15649)|backTracking|Silver3|
+|Day16|BOJ|1342|[행운의 문자열](https://www.acmicpc.net/problem/1342)|backTracking|Silver1|
 
 
 
