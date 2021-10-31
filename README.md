@@ -38,6 +38,7 @@
 |Day15|BOJ|1405|[미친로봇](https://www.acmicpc.net/problem/1405)|backTracking|Gold5|
 |Day16|BOJ|15649|[N과M](https://www.acmicpc.net/problem/15649)|backTracking|Silver3|
 |Day16|BOJ|1342|[행운의 문자열](https://www.acmicpc.net/problem/1342)|backTracking|Silver1|
+|Day17|BOJ|2583|[영역 구하기](https://www.acmicpc.net/problem/2583)|bfs|Silver1|
 
 
 
