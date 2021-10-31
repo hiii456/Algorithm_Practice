@@ -1,6 +1,6 @@
 # ❤️‍🔥 차근차근 시작하는 알고리즘 ❤️‍🔥
 
-- 목표는 1일 1알고리즘!!!
+- 목표는 1일 1알고리즘!!!!
 - BOJ, Programmers, SWEA etc..
 
 
@@ -38,6 +38,7 @@
 |Day15|BOJ|1405|[미친로봇](https://www.acmicpc.net/problem/1405)|backTracking|Gold5|
 |Day16|BOJ|15649|[N과M](https://www.acmicpc.net/problem/15649)|backTracking|Silver3|
 |Day16|BOJ|1342|[행운의 문자열](https://www.acmicpc.net/problem/1342)|backTracking|Silver1|
+
 
 
 
