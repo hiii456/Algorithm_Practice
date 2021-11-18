@@ -41,7 +41,7 @@
 |Day17|BOJ|2583|[영역 구하기](https://www.acmicpc.net/problem/2583)|bfs|Silver1|
 |Day18|BOJ|17086|[아기상어](https://www.acmicpc.net/problem/17086)|bfs|Silver2|
 |Day19|BOJ|12851|[숨바꼭질2](https://www.acmicpc.net/problem/12851)|bfs|Gold5|
-
+|Day20|BOJ|16500|[문자열 판별](https://www.acmicpc.net/problem/16500)|dp|Silver2|
 
 
 
