@@ -42,6 +42,8 @@
 |Day18|BOJ|17086|[아기상어](https://www.acmicpc.net/problem/17086)|bfs|Silver2|
 |Day19|BOJ|12851|[숨바꼭질2](https://www.acmicpc.net/problem/12851)|bfs|Gold5|
 |Day20|BOJ|16500|[문자열 판별](https://www.acmicpc.net/problem/16500)|dp|Silver2|
+|Day21|Programmers|X|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484?language=java)|Implementation|Level1|
+
 
 
 
