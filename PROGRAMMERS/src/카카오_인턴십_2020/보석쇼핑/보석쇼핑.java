@@ -1,4 +1,4 @@
-package 카카오_인턴십_2020;
+package 카카오_인턴십_2020.보석쇼핑;
 
 import java.util.*;
 
