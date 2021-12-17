@@ -1,14 +1,13 @@
 package Dev_Matching_2021;
 import java.util.*;
 
-public class ·Î¶ÇÀÇ_ÃÖ°í_¼øÀ§¿Í_ÃÖÀú_¼øÀ§ {
+public class ë¡œë˜ì˜_ìµœê³ _ìˆœìœ„ì™€_ìµœì €_ìˆœìœ„ {
 	class Solution {
 	    public int[] solution(int[] lottos, int[] win_nums) {
 	        int[] answer = new int[2];
 	        int zero = 0;
 	        int match = 0;
 	        for(int i : lottos){
-	            // 0ÀÌ ¾Æ´Ñ °æ¿ì¿¡¸¸ win_nums Å½»ö 
 	            if(i==0){
 	                zero++;
 	            }else{

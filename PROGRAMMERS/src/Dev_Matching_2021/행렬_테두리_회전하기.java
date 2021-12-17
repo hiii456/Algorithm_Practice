@@ -1,13 +1,12 @@
 package Dev_Matching_2021;
 
-public class Çà·Ä_Å×µÎ¸®_È¸ÀüÇÏ±â {
+public class í–‰ë ¬_í…Œë‘ë¦¬_íšŒì „í•˜ê¸° {
 
 	public int[] solution(int rows, int columns, int[][] queries) {
         int[] answer = new int[queries.length];
         int[][] arr = new int[rows+1][columns+1];
         int num = 1;
         
-        // Çà·Ä¿¡ 1ºÎÅÍ rows x columns±îÁöÀÇ ¼ıÀÚ¸¦ ÇÑ ÁÙ¾¿ ¼ø¼­´ë·Î ³Ö´Â´Ù.
         for(int i=1; i<=rows; i++){
             for(int j=1; j<=columns; j++){
                 arr[i][j] = num++;

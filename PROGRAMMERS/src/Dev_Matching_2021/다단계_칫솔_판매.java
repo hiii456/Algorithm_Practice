@@ -2,7 +2,7 @@ package Dev_Matching_2021;
 
 import java.util.HashMap;
 
-public class ´Ù´Ü°è_Ä©¼Ö_ÆÇ¸Å {
+public class ë‹¤ë‹¨ê³„_ì¹«ì†”_íŒë§¤ {
 
 	public int[] solution(String[] enroll, String[] referral, String[] seller, int[] amount) {
         int[] answer = new int[enroll.length];
