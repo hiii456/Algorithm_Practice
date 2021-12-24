@@ -1,4 +1,4 @@
-package dfs_bfs_1;
+package dfs_bfs.네트워크;
 
 import java.util.*;
 
