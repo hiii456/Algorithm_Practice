@@ -46,6 +46,14 @@
 |Day22|Programmers|X|[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|Implementation|Level2|
 |Day23|Programmers|X|[다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)|Hashmap|Level3|
 |Day24|Programmers|X|[신규아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|Implementation|Level1|
+|Day25|Programmers|X|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|Implementation|Level1|
+|Day26|Programmers|X|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|Implementation|Level1|
+|Day27|Programmers|X|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76051)|Implementation|Level1|
+|Day28|Programmers|X|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|Implementation|Level1|
+|Day29|Programmers|X|[순위](https://programmers.co.kr/learn/courses/30/lessons/49191)|Floyd-Warshall|Level3|
+|Day30|Programmers|X|[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|Dijkstra |Level3|
+|Day31|Programmers|X|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|Hash|Level2|
+|Day32|Programmers|X|[소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|bruteforce|Level2|
 
 
 
