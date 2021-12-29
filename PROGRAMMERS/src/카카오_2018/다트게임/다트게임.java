@@ -1,4 +1,4 @@
-package 카카오_2018;
+package 카카오_2018.다트게임;
 
 public class 다트게임 {
 
