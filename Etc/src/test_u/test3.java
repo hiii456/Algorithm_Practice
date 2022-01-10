@@ -22,8 +22,6 @@ public class test3 {
             }
         }
         
-        String str = "Monday 11";
-        System.out.println(str.substring(7,9));
         System.out.println(answer);
 
 
