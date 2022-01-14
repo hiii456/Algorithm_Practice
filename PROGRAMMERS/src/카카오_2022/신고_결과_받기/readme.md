@@ -92,3 +92,54 @@ class Solution {
 |테스트 22 |	통과 (0.16ms, 77.8MB)|
 |테스트 23 |	통과 (0.25ms, 74.8MB)|
 |테스트 24 |	통과 (0.14ms, 72.1MB)|
+
+
+
+
++ 추가로 다른 사람의 풀이를 참고하여 더 간단하게 코드를 풀어보았는데 
+
+~~~java
+import java.util.*;
+class Solution {
+    public int[] solution(String[] id_list, String[] report, int k) {
+        int[] answer = new int[id_list.length];
+		HashMap<String, HashSet<String>> hm = new HashMap<>();
+		
+		for(String id : id_list) {
+			hm.put(id, new HashSet<>());
+		}
+		
+		for(String s : report) {
+			String[] arr = s.split(" ");
+			String name1 = arr[0];
+			String name2 = arr[1];
+			Set<String> reportList = hm.get(name2);
+			reportList.add(name1);
+		}
+		
+		for(String key : hm.keySet()) {
+			HashSet<String> set = hm.get(key);
+			if(set.size()>=k) {
+				for(String str : set) {
+					answer[Arrays.asList(id_list).indexOf(str)] += 1;
+				}
+			}
+		}
+        
+        
+        return answer;
+    }
+}
+~~~
+
+신고당한 사람을 key, 신고한 사람의 id의 List를 value로 하는 hashmap을 만들면 
+
+|신고당한ID | 신고자 ID |
+|---|----|
+|muzi|apeach|
+|frodo| muzi,apeach|
+|apeach||
+|neo |frodo,muzi|
+
+여기서 value의 size가 k이상인 id만 메일이 오므로 이 조건에 해당하는 set만 순회하면 된다. 
+따라서 각 조건에 해당하는 set의 원소의 값을 +1 해주면 답을 구할 수 있다. 
