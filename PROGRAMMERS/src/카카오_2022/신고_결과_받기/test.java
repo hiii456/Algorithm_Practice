@@ -25,8 +25,6 @@ public class test {
 			HashSet<String> set = hm.get(key);
 			if(set.size()>=k) {
 				for(String str : set) {
-					System.out.println(str);
-					System.out.println(Arrays.asList(id_list).indexOf(str));
 					answer[Arrays.asList(id_list).indexOf(str)] += 1;
 				}
 			}
