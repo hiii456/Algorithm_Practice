@@ -58,6 +58,10 @@
 |Day34|Programmers|X|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|Implement|Level1|
 |Day35|Programmers|X|[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|Implement|Level1|
 |Day36|Programmers|X|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|Hash|Level2|
+|Day37|Programmers|X|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|PriorityQueue|Level2|
+|Day38|Programmers|X|[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|Implement|Level2|
+|Day39|Programmers|X|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/Stack)|Hash|12973|
+|Day40|Programmers|X|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|Implement|Level2|
 
 
 
