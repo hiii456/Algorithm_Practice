@@ -17,7 +17,7 @@ public class k진수에서_소수_개수_구하기 {
         int i,j;
         for(i=0; i<prime.length(); i=j+1){
             for(j=i; j<prime.length(); j++){
-                if(prime.charAt(j)=='0'){
+                if(prime.charAt(j)=='0' && i!=j){
                     String str = prime.substring(i,j);
                     if(isPrime(Long.parseLong(str))){
                         answer++;
@@ -39,14 +39,12 @@ public class k진수에서_소수_개수_구하기 {
 	}
 	// 에라토스체네스의 체를 이용하여 소수 판별 
     public static boolean isPrime(long num){
-        if(num==1){
+        if(num<=1){
             return false;
         }
-        
+
         for(int i=2; i<=Math.sqrt(num); i++){
-            if(num % i ==0) {
-            	return false;
-            }
+            if(num % i ==0) return false;
         }
         
         return true;
