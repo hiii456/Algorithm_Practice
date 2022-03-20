@@ -30,6 +30,7 @@ public class BOJ_1339_G4_단어_수학 {
 			sum += alphabet[i]*num--;
 		}
 		
+		
 		System.out.println(sum);
 
 	}
