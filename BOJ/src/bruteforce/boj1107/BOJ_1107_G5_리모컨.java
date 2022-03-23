@@ -13,13 +13,15 @@ public class BOJ_1107_G5_리모컨 {
 		
 		boolean[] channel = new boolean[10];
 		
-		// 고장난 채널은 true로 배열에 표시 
-		StringTokenizer st = new StringTokenizer(br.readLine());
-		for(int i=0; i<m; i++) {
-			int ch = Integer.parseInt(st.nextToken());
-			channel[ch] = true;
+		if(m!=0) {
+			// 고장난 채널은 true로 배열에 표시 
+			StringTokenizer st = new StringTokenizer(br.readLine());
+			for(int i=0; i<m; i++) {
+				int ch = Integer.parseInt(st.nextToken());
+				channel[ch] = true;
+			}
 		}
-		
+
 		/*
 		 * N의 최대값은 500,000이다.
 		 * 따라서 6자리수 중 최대값이 999,999까지 완전탐색을 진행한다.
